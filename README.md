@@ -1,9 +1,6 @@
 ## Hi there 👋 
 I am a React Native Developer at Kroo Bank and Owner of Flexeee.
 
-![](https://raw.githubusercontent.com/JRyanSaunders/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JRyanSaunders/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 My repositories are mostly private 🤫
 
 <!--
