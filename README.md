@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am a React Native Developer at Kroo Bank and Owner of Flexeee.
+
+![JRyanSaunders's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRyanSaunders&show_icons=true&theme=radical)
 
 <!--
 **JRyanSaunders/JRyanSaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
