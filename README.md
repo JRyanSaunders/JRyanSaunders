@@ -1,6 +1,6 @@
 ## Hi there 👋 I am a React Native Developer at Kroo Bank and Owner of Flexeee.
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Jack's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JRyanSaunders)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## My repositories are mostly private 🤫
 
