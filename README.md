@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I am a React Native Developer at Kroo Bank and Owner of Flexeee.
+I am a React Native Developer at Kroo Bank and Owner of Rivl.
 
 My repositories are mostly private 🤫
 
